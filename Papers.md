@@ -1,6 +1,6 @@
 ---
 title: Papers
-layout: template
+layout: jekyll-theme-hacker
 filename: Papers.md
 ---
 
